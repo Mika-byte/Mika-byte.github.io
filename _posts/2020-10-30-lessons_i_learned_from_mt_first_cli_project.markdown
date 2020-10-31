@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "Lessons I learned from mt first CLI project "
+title:      "Lessons I learned from my first CLI project "
 date:       2020-10-30 20:29:36 -0400
 permalink:  lessons_i_learned_from_mt_first_cli_project
 ---
